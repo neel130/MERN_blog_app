@@ -1,0 +1,14 @@
+
+.container-sidebar{
+    width: 25vw;
+    height: 100vh;
+    margin-right: 15px;
+    margin-top: 15px ;
+    position: sticky;
+    top: 15px;
+}
+
+.profileImg img{
+    width: 25vw;
+    border-radius: 4px;
+}
